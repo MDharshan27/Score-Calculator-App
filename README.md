@@ -3,7 +3,8 @@
 
 A simple and modern web application to calculate students’ **total and average marks** instantly. Built with **React** and **Tailwind CSS**, this app helps students save time, reduce errors, and track academic performance efficiently.
 
----
+![Screenshot 1](src/assets/screenshot1.png)
+![Screenshot 2](src/assets/screenshot2.png)
 
 ## Features
 
